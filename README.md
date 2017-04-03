@@ -17,11 +17,11 @@ set HostsSource="http://your_raw_hosts_file"
 ## hosts源
 
 推荐一些好用的hosts源，只需要选择一个Raw Source就好
-Author | Repo | Raw Source 
+Author | Repo | Raw Source | Comments
 ---|---|---|---
 Lerist | [Lerist/Go-Hosts](https://github.com/Lerist/Go-Hosts) | https://raw.githubusercontent.com/Lerist/Go-Hosts/master/hosts | 常用Q外网站，更新快，支持youtube视频播放
 Lerist | [Lerist/Go-Hosts](https://github.com/Lerist/Go-Hosts) | https://raw.githubusercontent.com/Lerist/Go-Hosts/master/hosts-ad | 同上，去广告
-racaljk | [racaljk/hosts](https://github.com/racaljk/hosts) | https://raw.githubusercontent.com/racaljk/hosts/master/hosts | 
+racaljk | [racaljk/hosts](https://github.com/racaljk/hosts) | https://raw.githubusercontent.com/racaljk/hosts/master/hosts |  
 
 ## 其他
 
